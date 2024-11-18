@@ -1,0 +1,14 @@
+.backToTop{
+    background-color: var(--rating-color);
+    width: 2.8rem;
+    height: 2.8rem;
+    text-align: center;
+    transition: all 1s;
+
+}
+
+.backToTop:hover{
+    border: 1px solid var(--container-color);
+    transform: scale(1.1);
+}
+
